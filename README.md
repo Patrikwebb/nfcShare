@@ -9,6 +9,7 @@ Build and run the code
 
 ### NFC Code
 **www/js/index.js**
+
     var success = function () { alert("Success: NFC data sent to peer"); };
     var failure = function (reason) { alert("Sharing failed " + reason); };
 
